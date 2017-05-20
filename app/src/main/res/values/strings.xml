@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Music Structure App</string>
+    <string name="new_release">New Releases</string>
+    <string name="recommend">Recommended</string>
+    <string name="popular">Populars</string>
+    <string name="greatest">Greatest hits</string>
+    <string name="main_activity">This musical structure app can be linked to Google Play e.g to stream songs from an online platform. There are some categories already made, but we can add plenty more, if we wish. Categories show different playlists depending on what is the category.\n
+        These are just example categories with example songs now to show the app is working, but can fill up with real attributes later.\n
+        The list cover pictures can be selected from the actual list randomly.</string>
+</resources>
